@@ -1,5 +1,5 @@
 # install-Jenkins Ubuntu 20.04 LTS
-How to install Your Own Jenkins
+How to install Jenkins Your Own 
 
 Jenkins installers are available for several Linux distributions like 
 
