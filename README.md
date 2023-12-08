@@ -78,7 +78,7 @@ cat /root/.jenkins/secrets/initialAdminPassword
 
 ### setup admin account for the first time
 
-![Alt text](image-6.png)
+![Alt text](image-7.png)
 
 
 
