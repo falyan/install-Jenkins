@@ -9,9 +9,10 @@ Jenkins installers are available for several Linux distributions like
 
 - Red Hat/Alma/Rocky
 
-this tutorial for ubuntu 20.04 LTS
+this tutorial will use ubuntu 20.04 LTS
 
 ## Prerequisites
+- server VPS (Virtual Private Server)
 
 Minimum hardware requirements:
 
@@ -22,9 +23,10 @@ Minimum hardware requirements:
 
 Recommended hardware configuration for a small team:
 
-- 4 GB+ of RAM
+| RAM | Disk Space    | OS              |
+| :-------- | :------- | :------------------------- |
+| `4 GB` | `50 GB` | UBUNTU 20.04 LTS |
 
-- 50 GB+ of drive space
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
