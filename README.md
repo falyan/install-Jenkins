@@ -29,7 +29,7 @@ this tutorial will use ubuntu 20.04 LTS
 
 ## Software requirements:
  java 11 + 
-- [java verison 11+](https://www.jenkins.io/doc/book/platform-information/support-policy-java/)
+- [java verison 11+](https://www.jenkins.io/doc/book/platform-information/support-policy-java/)</br>
  Web browser
 - chrome
 - firefox 
