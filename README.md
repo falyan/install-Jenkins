@@ -43,11 +43,9 @@ this tutorial will use ubuntu 20.04 LTS
 ```bash
   mkdir jenkins
 ```
-
 ```bash
   cd jenkins
 ```
-
 ```bash
   wget https://get.jenkins.io/war-stable/2.426.1/jenkins.war
 ```
@@ -55,6 +53,13 @@ this tutorial will use ubuntu 20.04 LTS
   ls
 ```
 ![Alt text](image-1.png)
+
+### run file jenkins.war with customes port, add & for runninf in the backround 
+```bash
+  java -jar jenkins.war --httpPort=7070 &
+```
+![Alt text](image-2.png)
+
 
 
 
