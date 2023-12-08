@@ -28,9 +28,6 @@ this tutorial will use ubuntu 20.04 LTS
 | `4 GB` | `50 GB` | UBUNTU 20.04 LTS |
 
 ## Software requirements:
- java 11 + 
+ 
 - [java verison 11+](https://www.jenkins.io/doc/book/platform-information/support-policy-java/)</br>
- Web browser
-- chrome
-- firefox 
-- etc
+- chrome (to acces your jenkins server)
