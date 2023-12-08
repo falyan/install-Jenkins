@@ -31,3 +31,11 @@ this tutorial will use ubuntu 20.04 LTS
  
 - [java verison 11+](https://www.jenkins.io/doc/book/platform-information/support-policy-java/)</br>
 - chrome (to acces your jenkins server)
+
+### step 1 install java 11
+```bash
+  apt install openjdk-11-jdk-headless
+```
+![Alt text](image.png)
+
+
