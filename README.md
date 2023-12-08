@@ -80,6 +80,10 @@ cat /root/.jenkins/secrets/initialAdminPassword
 
 ![Alt text](image-7.png)
 
+### your jenkins 
+
+![Alt text](image-8.png)
+
 
 
 
