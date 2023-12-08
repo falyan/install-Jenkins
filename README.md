@@ -15,9 +15,10 @@ this tutorial for ubuntu 20.04 LTS
 
 Minimum hardware requirements:
 
-- 256 MB of RAM
+| RAM | Disk Space    | OS              |
+| :-------- | :------- | :------------------------- |
+| `256 MB` | `1 GB` | UBUNTU 20.04 LTS |
 
-- 1 GB of drive space
 
 Recommended hardware configuration for a small team:
 
