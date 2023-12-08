@@ -9,19 +9,21 @@ Jenkins installers are available for several Linux distributions like
 
 - Red Hat/Alma/Rocky
 
+this tutorial for ubuntu 20.04 LTS
+
 ## Prerequisites
 
 Minimum hardware requirements:
 
-256 MB of RAM
+- 256 MB of RAM
 
-1 GB of drive space (although 10 GB is a recommended minimum if running Jenkins as a Docker container)
+- 1 GB of drive space
 
 Recommended hardware configuration for a small team:
 
-4 GB+ of RAM
+- 4 GB+ of RAM
 
-50 GB+ of drive space
+- 50 GB+ of drive space
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
